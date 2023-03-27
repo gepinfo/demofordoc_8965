@@ -1,0 +1,7 @@
+{
+  "name": "demofordoc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
